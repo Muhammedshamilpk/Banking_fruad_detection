@@ -255,7 +255,7 @@ Through this project I gained hands-on experience in:
 
 **Muhammed Shamil P K**
 
-Python Developer | AI & Machine Learning Enthusiast
+Python Developer | AI & Machine Learning 
 
 LinkedIn:
 https://www.linkedin.com/in/muhammedshamilpk/
@@ -263,8 +263,3 @@ https://www.linkedin.com/in/muhammedshamilpk/
 GitHub:
 https://github.com/Muhammedshamilpk
 
----
-
-## 📜 License
-
-This project is intended for educational and portfolio purposes.
